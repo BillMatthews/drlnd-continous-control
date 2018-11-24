@@ -40,7 +40,7 @@ The time taken to train an Agent with a particular configuration to complete the
 A baseline Agent was trained that had the following characteristics:
 
 |Agent Characteristic|Property|
-|---|---|---|
+|---|---|
 |Initial Hard Update| No|
 |Network Size| 400 -> 300|
 |Learning Frequency| Every 20 timesteps|
