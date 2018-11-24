@@ -38,6 +38,7 @@ The aim was to redued the number of episodes required to solve the environment; 
 The time taken to train an Agent with a particular configuration to complete the environment was time-consuming so these investigations were performed using a more constrained version of the enviornment. The constrained version required the Agent to achieve an average score of 10 or more over 10 episodes with an upper limit of 50 episodes.
 
 A baseline Agent was trained that had the following characteristics:
+
 |Agent Characteristic|Property|
 |---|---|---|
 |Initial Hard Update| No|
@@ -50,6 +51,7 @@ This baseline agent solved the constrained environment within __28 eposides__.
 Following this a series of experiements were performed where one parameter was altered at a time and the number of episodes to solve the constrainted envionrment was recored.
 
 The following table shows the experiments and their results on the learning.
+
 |Agent Characteristic|Property|Number of Episodes requred to solve|
 |---|---|---|
 |Initial Hard Update|Yes|27|
