@@ -71,7 +71,7 @@ Based on these experiments the following was concluded:
 The led to a target configuration for the full training to be as follows:
 
 |Agent Characteristic|Property|
-|---|---|---|
+|---|---|
 |Initial Hard Update| Yes|
 |Network Size| 400 -> 300|
 |Learning Frequency| Every 10 timesteps|
